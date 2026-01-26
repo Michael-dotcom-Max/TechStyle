@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  background-color: blue;
+}
+
+.name {
+  color: rgb(250, 6, 6);
+}
+
+.nav li {
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 20px;
+}
